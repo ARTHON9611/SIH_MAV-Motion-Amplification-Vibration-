@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "925750662069",
+    "project_id": "sihmav",
+    "storage_bucket": "sihmav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925750662069:android:e89ba52692a56c849a7ffc",
+        "android_client_info": {
+          "package_name": "com.example.mav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925750662069-16umjm9r8aip7ca8n65qim87a0bf31dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mav",
+            "certificate_hash": "f7e96e75b5d9d114f5416030c3af320d5a5b1318"
+          }
+        },
+        {
+          "client_id": "925750662069-aee74h289t4n2203pp8sbt2e9qnq402o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5yltzE4TI5PnY7qFQyh4yhY9R5ffDXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925750662069-aee74h289t4n2203pp8sbt2e9qnq402o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925750662069-0v9jeqjndhmqh4jlg0jjhsn7eqnog8v1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mav"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
